@@ -1,0 +1,9 @@
+#equipos {
+    width: 10%; height: auto; background-color: aqua;
+}
+#her {
+    border: 3; border-color: blue; margin-left: 50%;
+}
+.formulario {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; font-size: larger;
+}
